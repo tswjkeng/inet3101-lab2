@@ -1,3 +1,4 @@
+// Tswjkeng Lee - Lab 2: Memory and Structure
 
 #include <stdio.h>
 #include <stdlib.h>
